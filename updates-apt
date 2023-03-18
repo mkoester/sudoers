@@ -1,0 +1,1 @@
+%sudo ALL=(ALL) NOPASSWD: /usr/local/bin/apt update, /usr/local/bin/apt dist-upgrade -y, /usr/local/bin/apt autoremove -y
